@@ -26,11 +26,11 @@ class Shoe
 
   def material=(material)
     @material = material
-  end 
+  end
 
-  def material 
-    @material 
-  end 
+  def material
+    @material
+  end
 
   
 end
